@@ -13,7 +13,8 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Acre
 
  <div>
   <a href="https://github.com/leandrosantos2018">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandror95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosantos2018
+&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosantos2018&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
